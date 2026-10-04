@@ -3,4 +3,4 @@
 ## 📅 Topics Covered:
 # Day#1
 Date:03.10.2026
-Topic: Static & Final
+Topic: Static , Count , Thread & Final
